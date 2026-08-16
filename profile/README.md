@@ -1,4 +1,6 @@
-<h1 align="center">Seros, LLC</h1>
+<p align="center">
+  <img src="./seros-logo.png" alt="Seros, LLC" width="360">
+</p>
 
 <p align="center">
   <b>AI-driven task delegation &amp; creation that saves businesses time and money.</b><br>
@@ -25,11 +27,6 @@ two-person shop or a large enterprise.
 - **Smarter delegation** — the right task to the right person (or agent) automatically.
 - **Faster task creation** — turn intent into clear, actionable work in seconds.
 - **Built to scale** — same workflow whether you're small or enterprise-sized.
-
-## Get involved
-
-This is where the Seros open work lives. Repositories, tools, and projects will
-show up here as we build.
 
 ---
 
