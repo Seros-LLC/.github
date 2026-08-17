@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./seros-logo.png" alt="Seros, LLC" width="360">
-</p>
-
-<p align="center">
   <b>AI-driven task delegation &amp; creation that saves businesses time and money.</b><br>
   Built for teams big and small.
 </p>
