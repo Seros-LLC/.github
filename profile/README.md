@@ -8,11 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://seros.dev">seros.dev</a> &nbsp;·&nbsp;
-  <a href="https://seros.dev/privacy.html">Privacy</a> &nbsp;·&nbsp;
-  <a href="https://seros.dev/terms.html">Terms</a> &nbsp;·&nbsp;
-  <a href="https://seros.dev/security.html">Security</a> &nbsp;·&nbsp;
-  <a href="mailto:hello@seros.dev">hello@seros.dev</a>
+  <sub><b>Status:</b> pre-launch. The site at <code>seros.dev</code> and the
+  <code>@seros.dev</code> mailboxes are being set up; until they are live, the fastest way
+  to reach us is a GitHub issue on this repository or
+  <a href="https://github.com/jrdurham54">@jrdurham54</a>.</sub>
 </p>
 
 ---
@@ -56,10 +55,10 @@ first version is built. Public work will appear as it stabilises.
 
 ## Contact
 
-| | |
-|---|---|
-| Early access | [hello@seros.dev](mailto:hello@seros.dev) |
-| Security reports | [security@seros.dev](mailto:security@seros.dev) — see [SECURITY.md](../SECURITY.md) |
-| Press and partnerships | [hello@seros.dev](mailto:hello@seros.dev) |
+| | Now | Once the domain is live |
+|---|---|---|
+| Early access | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) or [@jrdurham54](https://github.com/jrdurham54) | hello@seros.dev |
+| Security reports | GitHub private vulnerability reporting — see [SECURITY.md](../SECURITY.md) | security@seros.dev |
+| Privacy requests | [@jrdurham54](https://github.com/jrdurham54) | privacy@seros.dev |
 
 <p align="center"><sub>© 2026 Seros, LLC. Making task delegation light work.</sub></p>

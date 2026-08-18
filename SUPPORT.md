@@ -9,7 +9,9 @@
 | Billing, invoices, cancellation | [hello@seros.dev](mailto:hello@seros.dev) |
 | A privacy or data request | [privacy@seros.dev](mailto:privacy@seros.dev) |
 
-Seros is pre-launch. Response times are best effort: usually within two business days.
+Seros is pre-launch, and the `@seros.dev` mailboxes are not live yet. Until they are, use
+a GitHub issue or [@jrdurham54](https://github.com/jrdurham54). Response times are best
+effort: usually within two business days.
 
 Please do not include passwords, API keys, or customer personal data in an issue or an
 email. If we need those to reproduce a problem, we will arrange a private channel.

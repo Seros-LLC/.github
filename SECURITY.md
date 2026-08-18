@@ -4,7 +4,9 @@ Seros, LLC takes reports of security problems seriously, including in pre-releas
 
 ## Reporting a vulnerability
 
-Email **security@seros.dev** with:
+Until the `@seros.dev` mailboxes are live, use **GitHub private vulnerability reporting**
+on the affected repository, or contact [@jrdurham54](https://github.com/jrdurham54).
+Once the domain is live, the address is **security@seros.dev**. Either way, include:
 
 - what you found and where (URL, repository, endpoint, or file),
 - the steps to reproduce it,
