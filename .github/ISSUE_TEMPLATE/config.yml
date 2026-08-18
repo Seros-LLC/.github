@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product help and early access
+    url: mailto:hello@seros.dev
+    about: Questions about using Seros, pricing, or joining early access.
+  - name: Report a security vulnerability
+    url: https://github.com/Seros-LLC/.github/blob/main/SECURITY.md
+    about: Please report privately. Never open a public issue for a vulnerability.

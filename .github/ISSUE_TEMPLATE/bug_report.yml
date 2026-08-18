@@ -1,0 +1,42 @@
+name: Bug report
+description: Something behaves incorrectly.
+labels: [bug, triage]
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include secrets, API keys, or customer personal data."
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: Expected behaviour versus actual behaviour.
+    validations: {required: true}
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      value: |
+        1.
+        2.
+        3.
+    validations: {required: true}
+  - type: input
+    id: version
+    attributes:
+      label: Version / commit
+    validations: {required: false}
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Impact
+      options:
+        - Blocks work, no workaround
+        - Blocks work, workaround exists
+        - Annoying but tolerable
+        - Cosmetic
+    validations: {required: true}
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      render: shell
