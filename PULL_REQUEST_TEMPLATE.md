@@ -24,4 +24,4 @@ Closes #
 
 - [ ] No secrets, tokens, or customer data in the diff
 - [ ] Docs, README, or changelog updated if the public surface changed
-- [ ] Follows [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ ] Follows [CONTRIBUTING.md](CONTRIBUTING.md)
