@@ -8,10 +8,9 @@
 </p>
 
 <p align="center">
-  <sub><b>Status:</b> pre-launch. The site at <code>seros.dev</code> and the
-  <code>@seros.dev</code> mailboxes are being set up; until they are live, the fastest way
-  to reach us is a GitHub issue on this repository or
-  <a href="https://github.com/jrdurham54">@jrdurham54</a>.</sub>
+  <sub><b>Status:</b> pre-launch and early access. Visit
+  <a href="https://seros.dev">seros.dev</a> to learn more, or open a GitHub issue for a
+  public-project question or early-access request.</sub>
 </p>
 
 ---
@@ -55,10 +54,10 @@ first version is built. Public work will appear as it stabilises.
 
 ## Contact
 
-| | Now | Once the domain is live |
-|---|---|---|
-| Early access | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) or [@jrdurham54](https://github.com/jrdurham54) | hello@seros.dev |
-| Security reports | GitHub private vulnerability reporting — see [SECURITY.md](../SECURITY.md) | security@seros.dev |
-| Privacy requests | [@jrdurham54](https://github.com/jrdurham54) | privacy@seros.dev |
+| You need | Contact |
+|---|---|
+| Early access or a public-project question | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) or contact [@jrdurham54](https://github.com/jrdurham54). |
+| Security report | Use GitHub private vulnerability reporting on the affected repository. See [SECURITY.md](../SECURITY.md). |
+| Privacy request | Contact [@jrdurham54](https://github.com/jrdurham54). |
 
 <p align="center"><sub>© 2026 Seros, LLC. Making task delegation light work.</sub></p>
