@@ -1,7 +1,7 @@
 # Seros, LLC
 
-Seros turns scattered requests into clear, assigned, tracked work. AI drafts the task; a
-human owns it.
+Seros, LLC is a solution development company. We scope the problem in writing, build the
+system to a fixed scope, and maintain it after it ships.
 
 This repository contains the organization profile and the default community-health files
 used across [Seros-LLC](https://github.com/Seros-LLC) repositories.
@@ -11,12 +11,13 @@ used across [Seros-LLC](https://github.com/Seros-LLC) repositories.
 | If you want to… | Go to… |
 |---|---|
 | Learn about Seros | [seros.dev](https://seros.dev) |
-| See the public application repository | [`.app`](https://github.com/Seros-LLC/.app) |
-| See the public website repository | [`.website`](https://github.com/Seros-LLC/.website) |
+| Start a project | [seros.dev/contact](https://seros.dev/contact) |
+| See the public website repository | [`website`](https://github.com/Seros-LLC/website) |
+| See the paused in-house application | [`app`](https://github.com/Seros-LLC/app) |
 | Report a public-project bug or suggest an improvement | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) |
 | Report a security concern | [SECURITY.md](SECURITY.md) — use private vulnerability reporting, not a public issue |
 
-Seros is pre-launch and in early access. Public repositories are shared as they stabilize.
+Business, legal, and product-specification repositories are private.
 
 ## Community standards
 

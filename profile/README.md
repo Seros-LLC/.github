@@ -1,63 +1,61 @@
 <p align="center">
-  <img src="./seros-banner.png" alt="Seros, LLC — making task delegation light work" width="880">
+  <img src="./seros-banner.png" alt="Seros, LLC — solution development" width="880">
 </p>
 
 <p align="center">
-  <b>Seros turns scattered requests into clear, assigned, tracked work.</b><br>
-  AI drafts the task. A human owns it.
+  <b>We build the software your business is missing.</b><br>
+  Scoped in writing. Built to a fixed scope. Maintained after delivery.
 </p>
 
 <p align="center">
-  <sub><b>Status:</b> pre-launch and early access. Visit
-  <a href="https://seros.dev">seros.dev</a> to learn more, or open a GitHub issue for a
-  public-project question or early-access request.</sub>
+  <sub>Visit <a href="https://seros.dev">seros.dev</a> to start a project, or open a
+  GitHub issue for a public-project question.</sub>
 </p>
 
 ---
 
-## What we are building
+## What we do
 
-Work rarely stalls on effort. It stalls on hand-off — the request buried in a thread,
-the task nobody owns, the context retyped for the third time. Project tools assume the
-work is already defined. Defining it is the expensive part.
+Most businesses have one process held together by spreadsheets, shared inboxes, and
+somebody's memory. It works until it doesn't, and replacing it never reaches the top of
+anyone's list.
 
-**Seros captures a request wherever it arrives, drafts the task, proposes an owner, and
-tracks it to done.** Outcome, context, acceptance criteria, effort, priority — written
-for you, in seconds, and confirmed by a person before anything moves.
+**Seros, LLC is a solution development company.** We find that process, specify the
+replacement in writing, build it to a fixed scope, and hand you the keys.
 
 | | |
 |---|---|
-| **Capture** | Connect the places work is asked for: chat, email, tickets, meetings. |
-| **Draft** | Turn intent into a well-scoped task with real acceptance criteria. |
-| **Assign** | Propose an owner from skills, load, and history — a human confirms. |
-| **Track** | Nudges, roll-ups, and a weekly view of what actually moved. |
-
-## Who it is for
-
-Teams of roughly 10–200 that run on hand-offs: agencies and studios, managed service and
-IT teams, operations and back-office groups, and founders who are still the bottleneck
-for every decision about who does what.
+| **Discovery** | A paid discovery sprint. You leave with a written specification you own, whether or not we build it. |
+| **Build** | Fixed scope, agreed before the work starts. No open-ended hourly drift. |
+| **Handover** | Your code, your infrastructure, your accounts. No lock-in to us. |
+| **Maintain** | An optional retainer for the system after it ships. |
 
 ## How we work
 
-- **A human approves every assignment.** We are not building an autopilot for your business.
-- **Your content is yours.** We process it to run the service, and model providers do not
-  train on it by default. Every subprocessor is named publicly before it is added.
-- **No claims we cannot back.** We do not advertise certifications we do not hold, or
-  metrics we have not measured.
-- **Plain language.** In the product, in the docs, and in the contracts.
+- **Written before built.** If it is not in the specification, it is not in the estimate —
+  and the specification is yours to take to another builder.
+- **You own the result.** Code, infrastructure, and accounts are yours from day one.
+- **No claims we cannot back.** We do not advertise certifications we do not hold,
+  clients we do not have, or results we have not measured.
+- **Plain language.** In the proposals, in the docs, and in the contracts.
 
-## Status
+## Repositories
 
-Seros is **pre-launch and in early access**. Repositories here are mostly private while the
-first version is built. Public work will appear as it stabilises.
+| Repository | What it is |
+|---|---|
+| [`website`](https://github.com/Seros-LLC/website) | seros.dev — the public site and its generated legal pages |
+| [`app`](https://github.com/Seros-LLC/app) | A Slack-to-tracker application built in-house. **Paused** — not deployed and not sold. Public as evidence of how we build. |
+| [`.github`](https://github.com/Seros-LLC/.github) | This profile and the organization-wide community health files |
+
+The business, legal, and product-specification repositories are private.
 
 ## Contact
 
 | You need | Contact |
 |---|---|
-| Early access or a public-project question | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) or contact [@jrdurham54](https://github.com/jrdurham54). |
+| To start a project | [seros.dev/contact](https://seros.dev/contact) |
+| A public-project question | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) or contact [@jrdurham54](https://github.com/jrdurham54). |
 | Security report | Use GitHub private vulnerability reporting on the affected repository. See [SECURITY.md](../SECURITY.md). |
 | Privacy request | Contact [@jrdurham54](https://github.com/jrdurham54). |
 
-<p align="center"><sub>© 2026 Seros, LLC. Making task delegation light work.</sub></p>
+<p align="center"><sub>© 2026 Seros, LLC. Georgia, USA.</sub></p>
