@@ -45,9 +45,10 @@ replacement in writing, build it to a fixed scope, and hand you the keys.
 |---|---|
 | [`website`](https://github.com/Seros-LLC/website) | seros.dev — the public site and its generated legal pages |
 | [`app`](https://github.com/Seros-LLC/app) | A Slack-to-tracker application built in-house. **Paused** — not deployed and not sold. Public as evidence of how we build. |
+| [`seros`](https://github.com/Seros-LLC/seros) | The specification behind that application: architecture, data model, ADRs, security controls, and an on-call runbook. |
 | [`.github`](https://github.com/Seros-LLC/.github) | This profile and the organization-wide community health files |
 
-The business, legal, and product-specification repositories are private.
+The business and legal repositories are private.
 
 ## Contact
 
