@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./seros-banner.png" alt="Seros, LLC — solution development" width="880">
+  <img src="./seros-banner.png" alt="Seros, LLC — AI and agentic consulting" width="880">
 </p>
 
 <p align="center">
@@ -29,14 +29,18 @@ Most businesses have one process held together by spreadsheets, shared inboxes, 
 somebody's memory. It works until it doesn't, and replacing it never reaches the top of
 anyone's list.
 
-**Seros, LLC is a solution development company.** We find that process, specify the
-replacement in writing, build it to a fixed scope, and hand you the keys.
+**Seros, LLC is an AI and agentic consulting firm.** We work out where AI agents can safely
+take that work on, advise in writing, and then build and run the agents and systems that do
+it, with a person approving every consequential step.
+
+**Services:** AI strategy and readiness assessment · advisory retainer · agentic workflow
+automation · AI-native custom CRM · custom builds and integrations · care plan.
 
 ## How an engagement runs
 
 | Stage | What happens | What you leave with |
 |---|---|---|
-| **1. Discovery** | A paid discovery sprint. We interview the people doing the work and write down what the system must do. | A written specification you own — yours to build with us or take to anyone else. |
+| **1. Assess** | A paid AI readiness assessment. We interview the people doing the work and write down where agents pay off and where they do not. | A written assessment and plan you own. For a build, a specification you can take to anyone. |
 | **2. Build** | Fixed scope, agreed before work starts. No open-ended hourly drift. | The working system, its source, and its tests. |
 | **3. Handover** | Code, infrastructure and accounts transfer to you. | Full ownership. No lock-in to us. |
 | **4. Maintain** | Optional monthly retainer. | Someone who knows the system when it needs changing. |

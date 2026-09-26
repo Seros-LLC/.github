@@ -1,7 +1,7 @@
 # Seros, LLC
 
-Seros, LLC is a solution development company. We scope the problem in writing, build the
-system to a fixed scope, and maintain it after it ships.
+Seros, LLC is an AI and agentic consulting firm. We advise businesses on where AI agents
+pay off, then build and run them to a fixed scope with people in control.
 
 This repository contains the organization profile and the default community-health files
 used across [Seros-LLC](https://github.com/Seros-LLC) repositories.
