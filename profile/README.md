@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <b>We build the software your business is missing.</b><br>
-  Scoped in writing. Built to a fixed scope. Maintained after delivery.
+  <b>Put AI agents to work in your business, with people in control.</b><br>
+  Advice in writing. Builds to a fixed scope. A person approves every consequential step.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://seros.dev/services">Services</a> ·
   <a href="https://seros.dev/work">Work</a> ·
   <a href="https://seros.dev/pricing">Engagements</a> ·
-  <a href="https://seros.dev/contact">Start a project</a>
+  <a href="https://seros.dev/contact">Book a scoping call</a>
 </p>
 
 <p align="center">
@@ -45,8 +45,8 @@ automation · AI-native custom CRM · custom builds and integrations · care pla
 | **3. Handover** | Code, infrastructure and accounts transfer to you. | Full ownership. No lock-in to us. |
 | **4. Maintain** | Optional monthly retainer. | Someone who knows the system when it needs changing. |
 
-Professional services are billed at **$150/hour**. Project prices are quoted after
-discovery, never before — an estimate without a specification is a guess.
+Professional services are billed at **$150/hour**. The assessment and project prices are quoted after
+the scoping call, never before — an estimate without a specification is a guess.
 
 ## How we work
 
