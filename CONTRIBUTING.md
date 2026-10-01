@@ -7,8 +7,9 @@ Thanks for taking the time. This file applies to every repository in the
 
 - **Open an issue first** for anything larger than a typo. Describe the problem, not only
   the fix you have in mind. We would rather agree on the problem than argue about a patch.
-- **Check the scope.** Seros is a small team building a focused product. A change that adds
-  a dependency, a service, or a configuration surface needs a reason that survives a year.
+- **Check the scope.** These are Seros, LLC's own repositories: the website, and a paused
+  application kept as delivery evidence. A change that adds a dependency, a service, or a
+  configuration surface needs a reason that survives a year.
 
 ## Working agreement
 
@@ -37,7 +38,7 @@ behaviour will usually be closed with a request for those things.
 
 ## Security issues
 
-Do not open an issue. See [SECURITY.md](SECURITY.md) and email security@seros.dev.
+Do not open an issue. Follow [SECURITY.md](SECURITY.md).
 
 ## Licence and ownership of contributions
 

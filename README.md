@@ -18,7 +18,7 @@ used across [Seros-LLC](https://github.com/Seros-LLC) repositories.
 | Report a public-project bug or suggest an improvement | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) |
 | Report a security concern | [SECURITY.md](SECURITY.md) — use private vulnerability reporting, not a public issue |
 
-Business, legal, and product-specification repositories are private.
+Business and legal repositories are private.
 
 ## Community standards
 

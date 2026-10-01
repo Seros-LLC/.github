@@ -95,7 +95,7 @@ Seros, LLC is early. We say so plainly rather than implying a scale we do not ha
 - **No client work has shipped.** No logos, no testimonials, no case studies — because
   there are none to show yet.
 - **The in-house application is paused**, not cancelled. It is not deployed and not sold.
-- **The company is Georgia-based** and operating; formation and legal review are in progress.
+- **The company is Georgia-based** and operating; formation is in progress.
 
 ## Contact
 
@@ -103,8 +103,8 @@ Seros, LLC is early. We say so plainly rather than implying a scale we do not ha
 |---|---|
 | To start a project | [seros.dev/contact](https://seros.dev/contact) |
 | A public-project question | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) or contact [@jrdurham54](https://github.com/jrdurham54) |
-| To report a security issue | Use GitHub private vulnerability reporting on the affected repository — **not** a public issue. See [SECURITY.md](../SECURITY.md). |
-| A privacy request | Contact [@jrdurham54](https://github.com/jrdurham54) |
+| To report a security issue | Email team@seros.dev or use GitHub private vulnerability reporting on the affected repository — **not** a public issue. See [SECURITY.md](../SECURITY.md). |
+| A privacy request | [team@seros.dev](mailto:team@seros.dev) |
 | General support | [SUPPORT.md](../SUPPORT.md) |
 
 ## License

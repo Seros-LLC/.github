@@ -4,9 +4,9 @@ Seros, LLC takes reports of security problems seriously, including in pre-releas
 
 ## Reporting a vulnerability
 
-Until the `@seros.dev` mailboxes are live, use **GitHub private vulnerability reporting**
-on the affected repository, or contact [@jrdurham54](https://github.com/jrdurham54).
-Once the domain is live, the address is **security@seros.dev**. Either way, include:
+Email **team@seros.dev**, or use **GitHub private vulnerability reporting** on the affected
+repository (enabled on every public Seros-LLC repository). The full policy, including
+scope and safe harbour for the website, is at https://seros.dev/security. Include:
 
 - what you found and where (URL, repository, endpoint, or file),
 - the steps to reproduce it,
@@ -14,18 +14,20 @@ Once the domain is live, the address is **security@seros.dev**. Either way, incl
 - any proof-of-concept you are willing to share.
 
 Please report privately first. Do not open a public issue for a suspected vulnerability.
-If a repository has GitHub private vulnerability reporting enabled, that channel works too.
 
 ## Our commitments
 
 | Stage | Target |
 |---|---|
-| Acknowledgement of your report | 3 business days |
+| Acknowledge receipt | 72 business hours |
 | Initial assessment and severity | 10 business days |
-| Fix or documented mitigation for high/critical issues | 90 days, sooner where practical |
+| Status update cadence | Every 14 days until closed |
+| Fix for critical issues | 30 days, target |
+| Fix for high and medium issues | 90 days, target |
 | Credit in the advisory, if you want it | Yes, on request |
 
-These are targets for a small team, not a contractual SLA.
+These match https://seros.dev/security. They are targets, not contractual commitments,
+unless a signed agreement says otherwise.
 
 ## Safe harbour
 

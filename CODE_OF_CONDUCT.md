@@ -19,7 +19,7 @@ space where someone is representing Seros, LLC.
 
 ## Enforcement
 
-Report concerns to **conduct@seros.dev**. Reports are handled by the maintainers of
+Report concerns to **team@seros.dev** (mark the subject "conduct"). Reports are handled by the maintainers of
 Seros, LLC, kept as confidential as practical, and answered within five business days.
 
 Consequences escalate with severity and repetition: a private correction, a public warning,
@@ -27,7 +27,7 @@ a temporary ban from interaction, then a permanent ban. Serious conduct — thre
 harassment, doxxing — can start at the top of that list.
 
 If a report concerns a maintainer, and you are not comfortable using the address above,
-send it to hello@seros.dev marked "conduct — confidential".
+send it to team@seros.dev marked "conduct — confidential".
 
 ## Attribution
 

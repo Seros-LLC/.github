@@ -22,7 +22,7 @@ body:
     attributes:
       label: How much does this matter to you?
       options:
-        - I cannot use Seros without it
+        - It blocks me
         - It costs me real time today
         - It would be nice
     validations: {required: true}
