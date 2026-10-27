@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Seros-LLC/app/actions/workflows/ci.yml"><img src="https://github.com/Seros-LLC/app/actions/workflows/ci.yml/badge.svg" alt="app checks"></a>
   <a href="https://github.com/Seros-LLC/website/actions/workflows/site-checks.yml"><img src="https://github.com/Seros-LLC/website/actions/workflows/site-checks.yml/badge.svg" alt="site checks"></a>
   <a href="https://github.com/Seros-LLC/seros/actions/workflows/docs-checks.yml"><img src="https://github.com/Seros-LLC/seros/actions/workflows/docs-checks.yml/badge.svg" alt="docs checks"></a>
 </p>
@@ -54,7 +53,8 @@ the scoping call, never before — an estimate without a specification is a gues
   and the specification is yours to take to another builder.
 - **You own the result.** Code, infrastructure, and accounts are yours from day one.
 - **A human approves consequential actions.** When we build automation, a person confirms
-  before it writes to your systems. See the invariant in [`app`](https://github.com/Seros-LLC/app#the-invariant).
+  before it writes to your systems. See the invariant in the
+  [implementation archive](https://github.com/Seros-LLC/seros/blob/main/docs/APP-ARCHIVE.md).
 - **No claims we cannot back.** We do not advertise certifications we do not hold, clients
   we do not have, or results we have not measured.
 - **Plain language.** In the proposals, in the docs, and in the contracts.
@@ -63,8 +63,7 @@ the scoping call, never before — an estimate without a specification is a gues
 
 | Repository | What it is | Language |
 |---|---|---|
-| [**`app`**](https://github.com/Seros-LLC/app) | A Slack-to-tracker application built in-house. **Paused** — not deployed and not sold. Public as evidence of how we build: multi-tenant isolation enforced at the query layer, a schema-level human-confirmation gate, and a 217-example detection eval. | TypeScript |
-| [**`seros`**](https://github.com/Seros-LLC/seros) | The specification behind that application — architecture, data model, ADRs, security controls, and a one-person on-call runbook. Published because the engineering reasoning stands on its own. | Markdown |
+| [**`seros`**](https://github.com/Seros-LLC/seros) | The paused product specification and implementation archive — architecture, data model, ADRs, security controls, and the evidence behind the former application. | Markdown |
 | [**`website`**](https://github.com/Seros-LLC/website) | seros.dev. Static HTML, plus a renderer that turns the Markdown legal pack into themed pages. | HTML / Python |
 | [**`.github`**](https://github.com/Seros-LLC/.github) | This profile and the organization-wide community health files. | Markdown |
 
@@ -76,12 +75,7 @@ These are our own projects rather than products seeking contributors, but the pu
 are readable, runnable, and reviewable.
 
 ```bash
-# The application — TypeScript on Node, no keys needed for the test suite
-git clone https://github.com/Seros-LLC/app.git
-cd app && npm install
-npm run verify        # typecheck + multi-tenancy check + 242 offline tests
-
-# The specification — start with the architecture doc and ADR 0002
+# The specification and implementation archive
 git clone https://github.com/Seros-LLC/seros.git
 ```
 

@@ -13,8 +13,7 @@ used across [Seros-LLC](https://github.com/Seros-LLC) repositories.
 | Learn about Seros | [seros.dev](https://seros.dev) |
 | Start a project | [seros.dev/contact](https://seros.dev/contact) |
 | See the public website repository | [`website`](https://github.com/Seros-LLC/website) |
-| See the paused in-house application | [`app`](https://github.com/Seros-LLC/app) |
-| Read the specification behind it | [`seros`](https://github.com/Seros-LLC/seros) |
+| Read the paused product specification and implementation archive | [`seros`](https://github.com/Seros-LLC/seros) |
 | Report a public-project bug or suggest an improvement | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) |
 | Report a security concern | [SECURITY.md](SECURITY.md) — use private vulnerability reporting, not a public issue |
 
