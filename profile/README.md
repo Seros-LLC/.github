@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./seros-banner.png" alt="Seros, LLC — AI and agentic consulting" width="880">
+  <img src="./seros-consulting-banner.png" alt="Seros, LLC — AI and agentic consulting: assess, build, and hand over AI systems with people in control" width="880">
 </p>
 
 <p align="center">
