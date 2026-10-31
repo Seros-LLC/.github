@@ -1,7 +1,7 @@
 # Seros, LLC
 
-Seros, LLC is an AI and agentic consulting firm. We advise businesses on where AI agents
-pay off, then build and run them to a fixed scope with people in control.
+Seros, LLC is an AI and agentic consulting firm. We help you decide where AI belongs,
+then deliver written advice and systems you own. A person approves every consequential action.
 
 This repository contains the organization profile and the default community-health files
 used across [Seros-LLC](https://github.com/Seros-LLC) repositories.
@@ -11,9 +11,9 @@ used across [Seros-LLC](https://github.com/Seros-LLC) repositories.
 | If you want to… | Go to… |
 |---|---|
 | Learn about Seros | [seros.dev](https://seros.dev) |
-| Start a project | [seros.dev/contact](https://seros.dev/contact) |
+| Book a free discovery call | [seros.dev/contact](https://seros.dev/contact) |
 | See the public website repository | [`website`](https://github.com/Seros-LLC/website) |
-| Read the paused product specification and implementation archive | [`seros`](https://github.com/Seros-LLC/seros) |
+| Inspect the paused product specification and engineering decisions | [`seros`](https://github.com/Seros-LLC/seros) |
 | Report a public-project bug or suggest an improvement | [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) |
 | Report a security concern | [SECURITY.md](SECURITY.md) — use private vulnerability reporting, not a public issue |
 
