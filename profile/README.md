@@ -1,69 +1,86 @@
-<p align="center">
-  <a href="https://seros.dev"><img src="https://raw.githubusercontent.com/Seros-LLC/.github/main/profile/seros-consulting-banner.png" alt="Seros, LLC — Find the work. Build the system. AI and agentic consulting, with people in control." width="880"></a>
+<div align="center">
+
+<a href="https://seros.dev">
+  <img src="https://raw.githubusercontent.com/Seros-LLC/.github/main/profile/seros-consulting-banner.png" alt="Seros, LLC — AI and Agentic Consulting. Systems with people in control." width="880">
+</a>
+
+# Make AI useful. Keep people in control.
+
+**AI and agentic consulting.** Written advice, defined scope, and practical systems you own.<br>
+A person approves every consequential action.
+
+<p>
+  <a href="https://seros.dev/services"><img src="https://img.shields.io/badge/Practice-AI_%26_Agentic_Consulting-132a50?style=for-the-badge&labelColor=1b3b6f&color=c9a646" alt="Practice: AI & Agentic Consulting"></a>
+  <a href="https://seros.dev/pricing"><img src="https://img.shields.io/badge/Rate-%24150%2Fhour-132a50?style=for-the-badge&labelColor=1b3b6f&color=c9a646" alt="Rate: $150/hour"></a>
+  <a href="https://seros.dev"><img src="https://img.shields.io/badge/Invariant-Human_in_the_Loop-132a50?style=for-the-badge&labelColor=1b3b6f&color=2f6b45" alt="Invariant: Human in the Loop"></a>
+  <a href="https://seros.dev"><img src="https://img.shields.io/badge/Jurisdiction-Georgia%2C_USA-132a50?style=for-the-badge&labelColor=1b3b6f&color=5e7f96" alt="Jurisdiction: Georgia, USA"></a>
 </p>
 
-<h2 align="center">Make AI useful. Keep people in control.</h2>
-
-<p align="center">
-  AI and agentic consulting. Written advice, defined scope, and systems you own.<br>
-  A person approves every consequential action.
+<p>
+  <a href="https://seros.dev/contact"><b>Book a Discovery Call</b></a> •
+  <a href="https://seros.dev/services"><b>Services & Deliverables</b></a> •
+  <a href="https://seros.dev/pricing"><b>Engagement Model</b></a> •
+  <a href="https://seros.dev/work"><b>Engineering Work</b></a>
 </p>
 
-<p align="center">
-  <a href="https://seros.dev/contact"><b>Book a free discovery call</b></a> ·
-  <a href="https://seros.dev/services">Explore services</a> ·
-  <a href="https://seros.dev/work">Inspect the work</a>
-</p>
+</div>
 
-## From advice to a working system
+---
 
-Seros, LLC helps you decide where AI belongs in your business, what to leave alone,
-and what to build next. We put the thinking in writing before building the system.
+## What We Do
 
-| Service | Where it fits |
-| --- | --- |
-| AI strategy and readiness assessment | Map the workflow, opportunities, risks, and priorities. |
-| Advisory retainer | Ongoing advice on AI decisions and implementation. |
-| Agentic workflow automation | Connect tools and move work forward, with human approval where it matters. |
-| AI-native custom CRM | Build around your relationships, records, and actual workflow. |
-| Custom builds and integrations | Deliver the system or connection your existing tools are missing. |
-| Care plan | Maintain and update the systems we deliver. |
+Seros, LLC helps leadership teams decide where AI belongs in their business, what to leave alone, and what to build. We put our thinking and system architecture in writing before building software.
 
-[Explore services](https://seros.dev/services) · [How engagements work](https://seros.dev/pricing)
+We deliver across **six distinct consulting offers**:
 
-## How we work
+| Service | Scope & Deliverables |
+|:---|:---|
+| **AI strategy and readiness assessment** | End-to-end evaluation of current workflows, data infrastructure, risks, and feasibility. Delivered as a prioritized execution roadmap. |
+| **Advisory retainer** | Direct, ongoing guidance on AI tooling decisions, vendor evaluation, architecture reviews, and team implementation. |
+| **Agentic workflow automation** | Purpose-built autonomous agents connected to your operational tools, with deterministic state machines and mandatory human approval. |
+| **AI-native custom CRM** | Tailored relationship tracking, contact graph intelligence, and communication automation aligned with your actual operational flows. |
+| **Custom builds and integrations** | Bespoke connectors, custom pipelines, and software tools bridging gaps across your legacy software stack. |
+| **Care plan** | Ongoing system maintenance, prompt & model updates, dependency upgrades, and operational health monitoring. |
 
-- **Start with discovery.** A free conversation about the process and whether we are a fit.
-- **Agree the work in writing.** A paid assessment informs the plan. Build scope and price are agreed before work starts; changes are agreed in writing.
-- **Keep people in control.** A person approves consequential actions, including moving money, contacting a customer, or changing an important record.
-- **Leave you with the system.** Your source code, infrastructure, and accounts. Ongoing advice and care are optional.
+<p align="right"><sub><a href="https://seros.dev/services">Explore service details →</a> · <a href="https://seros.dev/pricing">Review engagement pricing →</a></sub></p>
 
-Professional services are **$150/hour**. Assessments and fixed-fee builds are quoted after discovery.
-We work with buyers who already understand agentic systems and want to apply them to a real process.
+---
 
-## Public engineering work
+## Principles of Engagement
 
-These repositories show our own work and engineering reasoning, not client case studies.
-The former in-house product is paused, not deployed or sold.
+- **Start with Discovery:** A free initial call to understand your process, operational bottlenecks, and determine mutual fit.
+- **Written Agreement First:** A paid readiness assessment informs the plan. Build scope, fixed milestones, and fees are agreed in writing before any engineering starts.
+- **Human Approval by Design:** Critical decisions and consequential actions—moving capital, customer-facing outreach, or mutating essential database records—require explicit human confirmation by design.
+- **Client Ownership:** You retain 100% ownership of your source code, deployment infrastructure, and vendor accounts. No proprietary lock-in.
+- **Target Audience:** We work with technical founders, operators, and leadership teams who already understand agentic concepts and want reliable, production-tested delivery.
 
-| Repository | What to inspect |
-| --- | --- |
-| [**website**](https://github.com/Seros-LLC/website) | The source for seros.dev: static HTML, site checks, and a Python renderer for legal pages. |
-| [**seros**](https://github.com/Seros-LLC/seros) | The paused product specification: architecture, data model, decision records, security controls, testing strategy, and runbook. |
-| [**.github**](https://github.com/Seros-LLC/.github) | This profile and shared contributing, security, support, and community guidelines. |
+> **Transparent Pricing:** Professional consulting and engineering services are billed at **$150/hour**. Strategic assessments and fixed-fee builds are quoted clearly after discovery.
 
-[Browse the architecture](https://github.com/Seros-LLC/seros/blob/main/docs/ARCHITECTURE.md) ·
-[Read the decision records](https://github.com/Seros-LLC/seros/tree/main/docs/adr) ·
-[Review the security controls](https://github.com/Seros-LLC/seros/blob/main/docs/SECURITY-CONTROLS.md)
+---
 
-## Get in touch
+## Public Engineering Work
 
-For an engagement, [book a discovery call](https://seros.dev/contact) or email [team@seros.dev](mailto:team@seros.dev).
-For public-project questions, [open an issue](https://github.com/Seros-LLC/.github/issues/new/choose).
-Issues and pull requests are welcome; read the [contributing guide](https://github.com/Seros-LLC/.github/blob/main/CONTRIBUTING.md) first.
+These repositories showcase our internal engineering discipline, architectural decision-making, and public artifacts. They are published as delivery evidence of how we think and build:
 
-**Security concerns belong in a private report, not a public issue.**
-Use private vulnerability reporting on the affected repository or follow our
-[security policy](https://github.com/Seros-LLC/.github/blob/main/SECURITY.md).
+| Repository | Focus & Contents |
+|:---|:---|
+| [**Seros-LLC/website**](https://github.com/Seros-LLC/website) | Source code for [seros.dev](https://seros.dev): responsive static HTML, design token architecture, and Python rendering pipeline for legal documents. |
+| [**Seros-LLC/seros**](https://github.com/Seros-LLC/seros) | Architectural specification of our paused product: system design, Architecture Decision Records (ADRs), data models, security controls, and operational runbooks. |
+| [**Seros-LLC/.github**](https://github.com/Seros-LLC/.github) | Organization profile, community health standards, vulnerability reporting guidelines, and contributing policies. |
 
-<p align="center"><sub>© 2026 Seros, LLC · Georgia, USA · <a href="https://seros.dev">seros.dev</a></sub></p>
+Browse the public technical documentation:
+- 📐 [System Architecture Blueprint](https://github.com/Seros-LLC/seros/blob/main/docs/ARCHITECTURE.md)
+- 📋 [Architecture Decision Records (ADRs)](https://github.com/Seros-LLC/seros/tree/main/docs/adr)
+- 🛡️ [Security Controls & Isolation Strategy](https://github.com/Seros-LLC/seros/blob/main/docs/SECURITY-CONTROLS.md)
+
+---
+
+## Contact & Inquiries
+
+- **Engagements & Consultations:** [Book a discovery call](https://seros.dev/contact) or email [`team@seros.dev`](mailto:team@seros.dev).
+- **Public Project Inquiries:** [Open an issue](https://github.com/Seros-LLC/.github/issues/new/choose) on our `.github` repository. Read our [Contributing Guide](https://github.com/Seros-LLC/.github/blob/main/CONTRIBUTING.md) before submitting.
+- **Security Inquiries:** Security vulnerabilities must be reported privately. Follow our [Security Policy](https://github.com/Seros-LLC/.github/blob/main/SECURITY.md) or use private vulnerability reporting on the relevant repository.
+
+<div align="center">
+  <sub>© 2026 Seros, LLC · Georgia, USA · <a href="https://seros.dev">seros.dev</a></sub>
+</div>
